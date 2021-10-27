@@ -1,5 +1,15 @@
 Build a Backend REST API with Python & Django
 ---
+Skills
+---
+Python
+
+Django
+
+djangorestframework
+
+Aws
+
 Git
 ---
 Use the below Git commands in the Windows Command Prompt or macOS Terminal.
